@@ -23,8 +23,8 @@ class CoolMath {
   }
 }
 
-var mathBoy = CoolMath()
-mathBoy.addition(2, 3)
-mathBoy.subtraction(1, 2)
-mathBoy.multiplication(1, 2)
-mathBoy.division(2,1)
+var mathBot = CoolMath()
+mathBot.addition(2, 3)
+mathBot.subtraction(1, 2)
+mathBot.multiplication(1, 2)
+mathBot.division(2,1)
