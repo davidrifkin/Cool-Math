@@ -18,7 +18,7 @@ class CoolMath {
     printCool(result: (a/b))
   }
   
-  private func printCool(result:Int) {
+  private func printOutCool(result:Int) {
     print("Cool, the answer is", result)
   }
 }
